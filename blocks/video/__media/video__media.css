@@ -1,0 +1,6 @@
+.video__media {
+  margin: 50px 0 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
