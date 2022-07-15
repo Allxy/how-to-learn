@@ -1,5 +1,3 @@
-@import url(__media/video__media.css);
-
 .video {
   display: flex;
   flex-direction: column;
