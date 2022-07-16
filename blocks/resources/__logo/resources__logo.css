@@ -1,5 +1,6 @@
 .resources__logo {
   transition: linear 0.2s;
+  height: 38px;
 }
 
 .resources__logo:hover {
