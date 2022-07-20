@@ -4,6 +4,8 @@
 
 "How to learn" сайт с советами и техниками по продуктивному обучению.
 
+[Ссылка на GitHub Pages](https://allxy.github.io/how-to-learn/)
+
 ## Используемые технологии: 
 
 * Nested БЭМ
